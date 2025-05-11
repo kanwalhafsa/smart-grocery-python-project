@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\Lenovo\\Documents\\my-python-projects\\smart-grocery\\.venv\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Lenovo\\Documents\\my-python-projects\\smart-grocery\\.venv\\Lib\\site-packages"
+    ],
+    "python.analysis.autoSearchPaths": true
+}

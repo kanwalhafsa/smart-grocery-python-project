@@ -1,0 +1,133 @@
+{
+    "items": [
+        {
+            "id": "d5bfd544-9db4-4327-a95a-b5b7d6d32ad7",
+            "name": "Milk",
+            "price": 3.5,
+            "category": "Dairy",
+            "unit": "liter",
+            "quantity": 2.0
+        },
+        {
+            "id": "73585e40-627d-4b48-9e39-7239111c49aa",
+            "name": "Bread",
+            "price": 2.0,
+            "category": "Bakery",
+            "unit": "piece",
+            "quantity": 1
+        },
+        {
+            "id": "7e7661c8-67e1-489c-aeca-dc1f4a22de06",
+            "name": "Rice",
+            "price": 10.0,
+            "category": "Grains",
+            "unit": "kg",
+            "quantity": 0
+        },
+        {
+            "id": "1ca065c1-7cb0-4fa2-a0aa-d59902650fa8",
+            "name": "Tomato",
+            "price": 1.5,
+            "category": "Vegetables",
+            "unit": "kg",
+            "quantity": 3
+        },
+        {
+            "id": "ce561619-643f-47a1-aa4b-d7bec4ba4971",
+            "name": "Chips",
+            "price": 2.5,
+            "category": "Snacks",
+            "unit": "piece",
+            "quantity": 0
+        },
+        {
+            "id": "a859f85a-0e8b-496b-a80a-051db91c910a",
+            "name": "Juice",
+            "price": 4.0,
+            "category": "Beverages",
+            "unit": "liter",
+            "quantity": 0.0
+        },
+        {
+            "id": "2456664f-998b-4103-a4b9-7905608a9fc6",
+            "name": "apple",
+            "price": 100.0,
+            "category": "Dairy",
+            "unit": "kg",
+            "quantity": 1.0
+        },
+        {
+            "id": "c583207b-eb9e-40a0-af29-296e5b9b7f34",
+            "name": "Onion",
+            "price": 100.0,
+            "category": "Vegetables",
+            "unit": "kg",
+            "quantity": 0
+        }
+    ],
+    "budgets": {
+        "Total": 200000.0
+    },
+    "history": [
+        {
+            "date": "2025-05-11 15:34:19",
+            "items": [
+                [
+                    "Milk",
+                    2,
+                    "liter",
+                    3.5
+                ],
+                [
+                    "Bread",
+                    1,
+                    "piece",
+                    2.0
+                ],
+                [
+                    "Tomato",
+                    3,
+                    "kg",
+                    1.5
+                ],
+                [
+                    "Juice",
+                    1,
+                    "liter",
+                    4.0
+                ]
+            ],
+            "total_cost": 17.5
+        },
+        {
+            "date": "2025-05-11 18:02:41",
+            "items": [
+                [
+                    "Milk",
+                    2.0,
+                    "liter",
+                    3.5
+                ],
+                [
+                    "Bread",
+                    1,
+                    "piece",
+                    2.0
+                ],
+                [
+                    "Tomato",
+                    3,
+                    "kg",
+                    1.5
+                ],
+                [
+                    "apple",
+                    1.0,
+                    "kg",
+                    100.0
+                ]
+            ],
+            "total_cost": 113.5
+        }
+    ]
+}
